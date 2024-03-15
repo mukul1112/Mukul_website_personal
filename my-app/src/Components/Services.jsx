@@ -27,7 +27,7 @@ const Services = () => {
               front-end and a blockchain-based backend for managing and triggering tokens.
             </p>
             <button className="px-3 py-2 bg-orange-500 text-2xl rounded-full shadow-lg">
-            <a href="https://github.com/mukul1112/web3" target="_blank"> check</a>
+            <a href="https://github.com/mukul1112/web3" target="_blank"rel="noreferrer"> check</a>
             </button>
           </div>
           <div className=" cursor-pointer hover:bg-gray-100 space-y-3  bg-slate-100 p-5 text-center shadow-lg rounded-xl">
@@ -40,7 +40,7 @@ const Services = () => {
               book them.
             </p>
             <button className="px-3 py-2 bg-orange-500 text-2xl rounded-full shadow-lg " >
-              <a href="https://github.com/mukul1112/hotels_frontend" target="_blank"> check</a>
+              <a href="https://github.com/mukul1112/hotels_frontend" target="_blank"rel="noreferrer"> check</a>
             </button>
           </div>
           <div className=" cursor-pointer hover:bg-gray-100 space-y-3 bg-slate-100 p-5 text-center shadow-lg rounded-xl">
@@ -52,7 +52,7 @@ const Services = () => {
       microservices.
             </p>
             <button className="px-3 py-2 bg-orange-500 text-2xl rounded-full shadow-lg  ">
-            <a href="https://github.com/mukul1112/hotel-microservices" target="_blank"> check</a>
+            <a href="https://github.com/mukul1112/hotel-microservices" target="_blank"rel="noreferrer"> check</a>
             </button>
           </div>
         </div>

@@ -57,19 +57,19 @@ function Content() {
           <div className="icons-container flex space-x-5">
             <a href="https://twitter.com/MukulPalariya"
             target="_blank"
-            rel="noopener" 
+            rel="noreferrer" 
             className=" hover:bg-orange-600 border cursor-pointer  px-3 py-4 w-16 h-16  rounded-full flex justify-center items-center bg-gray-800">
               <i class="fa-brands text-4xl  fa-twitter"></i>
             </a>
 
            
 
-            <a rel="noopener"target="_blank" href="https://github.com/mukul1112"
+            <a target="_blank" rel="noreferrer"  href="https://github.com/mukul1112"
             className="  hover:bg-orange-600 border  cursor-pointer  px-3 py-4 w-16 h-16  rounded-full flex justify-center items-center bg-gray-800">
               <i class="fa-brands text-4xl  fa-github"></i>
             </a>
 
-            <a rel="noopener"target="_balnk" href="https://www.linkedin.com/in/mukul-palariya-a519001a0/"
+            <a rel="noreferrer" target="_balnk" href="https://www.linkedin.com/in/mukul-palariya-a519001a0/"
             className=" hover:bg-orange-600  border  cursor-pointer px-3 py-4 w-16 h-16  rounded-full flex justify-center items-center bg-gray-800">
               <i class="fa-brands text-4xl  fa-linkedin-in"></i>
             </a>
@@ -83,7 +83,7 @@ function Content() {
 
       <div className=" w-full flex justify-center">
         {/* image */}
-        <img className="rounded-full my-2 shadow-lg w-fit" src={bannerImage} />
+        <img className="rounded-full my-2 shadow-lg w-fit" src={bannerImage} alt="" />
       </div>
     </div>
     
